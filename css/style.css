@@ -1,0 +1,28 @@
+.tblCalc{
+    border: 1px solid #262626;
+    margin:0;
+    padding:0;
+    width:250px;
+    text-align:center;
+}
+.tblCalc input{
+    border-radius:25px;
+    border:1px solid gray;
+    width:30px;
+    margin:4px;
+}
+#btnWide{
+    width:80px;
+    border-radius:5px;
+}
+#editWide{
+    width:250px;
+    border-radius:5px;
+}
+.calc{
+    border-radius:5px;
+    border: 10px solid #262626;
+}
+.text-left{
+    padding: 0 0 0 25px;
+}
